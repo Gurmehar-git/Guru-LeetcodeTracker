@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "1105",
+  "frontendId": "1035",
+  "title": "Uncrossed Lines",
+  "slug": "uncrossed-lines",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Longest Common Subsequence"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "223 ms",
+  "memory": "14.5 MB",
+  "submissionId": "2189079483",
+  "acceptedAt": "2026-11-04T04:45:29.174Z",
+  "updatedAt": "2026-11-04T04:45:30.109Z",
+  "url": "https://leetcode.com/problems/uncrossed-lines/",
+  "version": 1
+}

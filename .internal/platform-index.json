@@ -1,5 +1,6 @@
 {
   "leetcode": [
-    "leetcode/1143-longest-common-subsequence"
+    "leetcode/1143-longest-common-subsequence",
+    "leetcode/1035-uncrossed-lines"
   ]
 }

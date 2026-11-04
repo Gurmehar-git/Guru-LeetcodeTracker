@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**1** problems solved — 0 Easy · 1 Medium · 0 Hard
+**2** problems solved — 0 Easy · 2 Medium · 0 Hard
 
 ## Contents
 
@@ -14,6 +14,7 @@
 
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
+| 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium | Array, Dynamic Programming, Longest Common Subsequence |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | String, Dynamic Programming, Longest Common Subsequence |
 
 ## By Difficulty
@@ -22,10 +23,11 @@
 
 _No problems solved yet._
 
-### Medium (1)
+### Medium (2)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Array, Dynamic Programming, Longest Common Subsequence |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | String, Dynamic Programming, Longest Common Subsequence |
 
 ### Hard (0)
@@ -35,19 +37,30 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Dynamic Programming (1)</summary>
+<summary>Array (1)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Dynamic Programming (2)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 
 </details>
 
 <details>
-<summary>Longest Common Subsequence (1)</summary>
+<summary>Longest Common Subsequence (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 
 </details>
@@ -64,10 +77,11 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (1)</summary>
+<summary>python (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 
 </details>
@@ -76,4 +90,5 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium | 2026-11-04 |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | 2026-11-04 |
