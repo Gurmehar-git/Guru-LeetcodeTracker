@@ -5,10 +5,11 @@
     "Medium": 2,
     "Hard": 0
   },
-  "currentStreak": 1,
-  "longestStreak": 1,
-  "lastSolvedDate": "2026-11-04",
+  "currentStreak": 2,
+  "longestStreak": 2,
+  "lastSolvedDate": "2026-11-05",
   "activityByDate": {
-    "2026-11-04": 2
+    "2026-11-04": 2,
+    "2026-11-05": 1
   }
 }

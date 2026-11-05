@@ -90,5 +90,5 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
-| 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium | 2026-11-04 |
+| 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium | 2026-11-05 |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | 2026-11-04 |
