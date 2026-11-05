@@ -69,5 +69,19 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-05T09:48:22.129Z"
+  },
+  {
+    "folderId": "leetcode/0128-longest-consecutive-sequence",
+    "frontendId": "128",
+    "title": "Longest Consecutive Sequence",
+    "slug": "longest-consecutive-sequence",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union-Find"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-05T10:15:35.598Z"
   }
 ]

@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "128",
+  "frontendId": "128",
+  "title": "Longest Consecutive Sequence",
+  "slug": "longest-consecutive-sequence",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Union-Find"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "65 ms",
+  "memory": "30.5 MB",
+  "submissionId": "2189986153",
+  "acceptedAt": "2026-11-05T10:15:35.598Z",
+  "updatedAt": "2026-11-05T10:15:36.517Z",
+  "url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+  "version": 1
+}

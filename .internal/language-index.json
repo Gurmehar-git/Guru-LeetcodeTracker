@@ -4,6 +4,7 @@
     "leetcode/1035-uncrossed-lines",
     "leetcode/0217-contains-duplicate",
     "leetcode/0242-valid-anagram",
-    "leetcode/0049-group-anagrams"
+    "leetcode/0049-group-anagrams",
+    "leetcode/0128-longest-consecutive-sequence"
   ]
 }
