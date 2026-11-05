@@ -54,5 +54,20 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-05T09:43:31.879Z"
+  },
+  {
+    "folderId": "leetcode/0049-group-anagrams",
+    "frontendId": "49",
+    "title": "Group Anagrams",
+    "slug": "group-anagrams",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-05T09:48:22.129Z"
   }
 ]
