@@ -1,6 +1,7 @@
 {
   "String": [
-    "leetcode/1143-longest-common-subsequence"
+    "leetcode/1143-longest-common-subsequence",
+    "leetcode/0242-valid-anagram"
   ],
   "Dynamic Programming": [
     "leetcode/1143-longest-common-subsequence",
@@ -15,9 +16,11 @@
     "leetcode/0217-contains-duplicate"
   ],
   "Hash Table": [
-    "leetcode/0217-contains-duplicate"
+    "leetcode/0217-contains-duplicate",
+    "leetcode/0242-valid-anagram"
   ],
   "Sorting": [
-    "leetcode/0217-contains-duplicate"
+    "leetcode/0217-contains-duplicate",
+    "leetcode/0242-valid-anagram"
   ]
 }

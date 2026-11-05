@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**3** problems solved — 1 Easy · 2 Medium · 0 Hard
+**4** problems solved — 2 Easy · 2 Medium · 0 Hard
 
 ## Contents
 
@@ -15,16 +15,18 @@
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
 | 0217 | [Contains Duplicate](0217-contains-duplicate/README.md) | Easy | Array, Hash Table, Sorting |
+| 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | Hash Table, String, Sorting |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium | Array, Dynamic Programming, Longest Common Subsequence |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | String, Dynamic Programming, Longest Common Subsequence |
 
 ## By Difficulty
 
-### Easy (1)
+### Easy (2)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0217 | [Contains Duplicate](0217-contains-duplicate/README.md) | Array, Hash Table, Sorting |
+| 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
 
 ### Medium (2)
 
@@ -60,11 +62,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (1)</summary>
+<summary>Hash Table (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0217 | [Contains Duplicate](0217-contains-duplicate/README.md) | Easy |
+| 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 
 </details>
 
@@ -79,19 +82,21 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (1)</summary>
+<summary>Sorting (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0217 | [Contains Duplicate](0217-contains-duplicate/README.md) | Easy |
+| 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 
 </details>
 
 <details>
-<summary>String (1)</summary>
+<summary>String (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 
 </details>
@@ -99,11 +104,12 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (3)</summary>
+<summary>python (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0217 | [Contains Duplicate](0217-contains-duplicate/README.md) | Easy |
+| 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 
@@ -113,6 +119,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | 2026-11-05 |
 | 0217 | [Contains Duplicate](0217-contains-duplicate/README.md) | Easy | 2026-11-05 |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium | 2026-11-05 |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | 2026-11-04 |

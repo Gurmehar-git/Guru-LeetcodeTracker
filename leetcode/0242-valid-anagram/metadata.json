@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "242",
+  "frontendId": "242",
+  "title": "Valid Anagram",
+  "slug": "valid-anagram",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "18 ms",
+  "memory": "12.3 MB",
+  "submissionId": "2189968834",
+  "acceptedAt": "2026-11-05T09:43:31.879Z",
+  "updatedAt": "2026-11-05T09:43:32.719Z",
+  "url": "https://leetcode.com/problems/valid-anagram/",
+  "version": 1
+}
