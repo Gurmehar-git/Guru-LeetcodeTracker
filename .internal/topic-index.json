@@ -11,6 +11,13 @@
     "leetcode/1035-uncrossed-lines"
   ],
   "Array": [
-    "leetcode/1035-uncrossed-lines"
+    "leetcode/1035-uncrossed-lines",
+    "leetcode/0217-contains-duplicate"
+  ],
+  "Hash Table": [
+    "leetcode/0217-contains-duplicate"
+  ],
+  "Sorting": [
+    "leetcode/0217-contains-duplicate"
   ]
 }

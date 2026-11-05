@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "217",
+  "frontendId": "217",
+  "title": "Contains Duplicate",
+  "slug": "contains-duplicate",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "35 ms",
+  "memory": "25.9 MB",
+  "submissionId": "2189965483",
+  "acceptedAt": "2026-11-05T09:37:21.281Z",
+  "updatedAt": "2026-11-05T09:37:22.732Z",
+  "url": "https://leetcode.com/problems/contains-duplicate/",
+  "version": 1
+}

@@ -26,5 +26,19 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-05T05:00:38.349Z"
+  },
+  {
+    "folderId": "leetcode/0217-contains-duplicate",
+    "frontendId": "217",
+    "title": "Contains Duplicate",
+    "slug": "contains-duplicate",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-05T09:37:21.281Z"
   }
 ]

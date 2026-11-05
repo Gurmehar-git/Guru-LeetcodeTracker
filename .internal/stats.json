@@ -1,7 +1,7 @@
 {
-  "totalSolved": 2,
+  "totalSolved": 3,
   "byDifficulty": {
-    "Easy": 0,
+    "Easy": 1,
     "Medium": 2,
     "Hard": 0
   },
@@ -10,6 +10,6 @@
   "lastSolvedDate": "2026-11-05",
   "activityByDate": {
     "2026-11-04": 2,
-    "2026-11-05": 1
+    "2026-11-05": 2
   }
 }
