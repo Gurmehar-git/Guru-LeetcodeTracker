@@ -100,5 +100,19 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-06T17:30:53.006Z"
+  },
+  {
+    "folderId": "leetcode/0167-two-sum-ii-input-array-is-sorted",
+    "frontendId": "167",
+    "title": "Two Sum II - Input Array Is Sorted",
+    "slug": "two-sum-ii-input-array-is-sorted",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-06T17:37:55.434Z"
   }
 ]
