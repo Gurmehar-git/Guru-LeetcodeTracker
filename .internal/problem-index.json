@@ -83,5 +83,22 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-05T10:15:35.598Z"
+  },
+  {
+    "folderId": "leetcode/0268-missing-number",
+    "frontendId": "268",
+    "title": "Missing Number",
+    "slug": "missing-number",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-06T17:30:53.006Z"
   }
 ]

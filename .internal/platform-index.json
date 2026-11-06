@@ -5,6 +5,7 @@
     "leetcode/0217-contains-duplicate",
     "leetcode/0242-valid-anagram",
     "leetcode/0049-group-anagrams",
-    "leetcode/0128-longest-consecutive-sequence"
+    "leetcode/0128-longest-consecutive-sequence",
+    "leetcode/0268-missing-number"
   ]
 }

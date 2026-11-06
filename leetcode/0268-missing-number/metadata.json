@@ -1,0 +1,25 @@
+{
+  "platform": "leetcode",
+  "problemId": "268",
+  "frontendId": "268",
+  "title": "Missing Number",
+  "slug": "missing-number",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Binary Search",
+    "Bit Manipulation",
+    "Sorting"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "1 ms",
+  "memory": "13.2 MB",
+  "submissionId": "2190858658",
+  "acceptedAt": "2026-11-06T17:30:53.006Z",
+  "updatedAt": "2026-11-06T17:30:54.024Z",
+  "url": "https://leetcode.com/problems/missing-number/",
+  "version": 1
+}

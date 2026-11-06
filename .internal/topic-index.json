@@ -16,20 +16,32 @@
     "leetcode/1035-uncrossed-lines",
     "leetcode/0217-contains-duplicate",
     "leetcode/0049-group-anagrams",
-    "leetcode/0128-longest-consecutive-sequence"
+    "leetcode/0128-longest-consecutive-sequence",
+    "leetcode/0268-missing-number"
   ],
   "Hash Table": [
     "leetcode/0217-contains-duplicate",
     "leetcode/0242-valid-anagram",
     "leetcode/0049-group-anagrams",
-    "leetcode/0128-longest-consecutive-sequence"
+    "leetcode/0128-longest-consecutive-sequence",
+    "leetcode/0268-missing-number"
   ],
   "Sorting": [
     "leetcode/0217-contains-duplicate",
     "leetcode/0242-valid-anagram",
-    "leetcode/0049-group-anagrams"
+    "leetcode/0049-group-anagrams",
+    "leetcode/0268-missing-number"
   ],
   "Union-Find": [
     "leetcode/0128-longest-consecutive-sequence"
+  ],
+  "Math": [
+    "leetcode/0268-missing-number"
+  ],
+  "Binary Search": [
+    "leetcode/0268-missing-number"
+  ],
+  "Bit Manipulation": [
+    "leetcode/0268-missing-number"
   ]
 }
