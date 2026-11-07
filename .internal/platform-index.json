@@ -8,6 +8,7 @@
     "leetcode/0128-longest-consecutive-sequence",
     "leetcode/0268-missing-number",
     "leetcode/0167-two-sum-ii-input-array-is-sorted",
-    "leetcode/0015-3sum"
+    "leetcode/0015-3sum",
+    "leetcode/0016-3sum-closest"
   ]
 }

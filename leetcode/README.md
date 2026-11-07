@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**9** problems solved — 3 Easy · 6 Medium · 0 Hard
+**10** problems solved — 3 Easy · 7 Medium · 0 Hard
 
 ## Contents
 
@@ -15,6 +15,7 @@
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | Array, Two Pointers, Sorting |
+| 0016 | [3Sum Closest](0016-3sum-closest/README.md) | Medium | Array, Two Pointers, Sorting |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | Array, Hash Table, String, Sorting |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium | Array, Hash Table, Union-Find |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium | Array, Two Pointers, Binary Search |
@@ -34,11 +35,12 @@
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
 | 0268 | [Missing Number](0268-missing-number/README.md) | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
 
-### Medium (6)
+### Medium (7)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0015 | [3Sum](0015-3sum/README.md) | Array, Two Pointers, Sorting |
+| 0016 | [3Sum Closest](0016-3sum-closest/README.md) | Array, Two Pointers, Sorting |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Array, Hash Table, String, Sorting |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Array, Hash Table, Union-Find |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Array, Two Pointers, Binary Search |
@@ -52,11 +54,12 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (7)</summary>
+<summary>Array (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
+| 0016 | [3Sum Closest](0016-3sum-closest/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium |
@@ -128,11 +131,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (5)</summary>
+<summary>Sorting (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
+| 0016 | [3Sum Closest](0016-3sum-closest/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0217 | [Contains Duplicate](0217-contains-duplicate/README.md) | Easy |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
@@ -152,11 +156,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (2)</summary>
+<summary>Two Pointers (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
+| 0016 | [3Sum Closest](0016-3sum-closest/README.md) | Medium |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium |
 
 </details>
@@ -173,11 +178,12 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (9)</summary>
+<summary>python (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
+| 0016 | [3Sum Closest](0016-3sum-closest/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium |
@@ -193,6 +199,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0016 | [3Sum Closest](0016-3sum-closest/README.md) | Medium | 2026-11-07 |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | 2026-11-07 |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium | 2026-11-06 |
 | 0268 | [Missing Number](0268-missing-number/README.md) | Easy | 2026-11-06 |

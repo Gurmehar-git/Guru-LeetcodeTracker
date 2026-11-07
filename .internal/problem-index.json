@@ -128,5 +128,19 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-07T09:43:34.553Z"
+  },
+  {
+    "folderId": "leetcode/0016-3sum-closest",
+    "frontendId": "16",
+    "title": "3Sum Closest",
+    "slug": "3sum-closest",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-07T09:50:00.560Z"
   }
 ]

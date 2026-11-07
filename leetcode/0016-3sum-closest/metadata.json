@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "16",
+  "frontendId": "16",
+  "title": "3Sum Closest",
+  "slug": "3sum-closest",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "467 ms",
+  "memory": "12 MB",
+  "submissionId": "2191194541",
+  "acceptedAt": "2026-11-07T09:50:00.560Z",
+  "updatedAt": "2026-11-07T09:50:01.836Z",
+  "url": "https://leetcode.com/problems/3sum-closest/",
+  "version": 1
+}
