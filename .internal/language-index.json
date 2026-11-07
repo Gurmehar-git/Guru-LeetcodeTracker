@@ -7,6 +7,7 @@
     "leetcode/0049-group-anagrams",
     "leetcode/0128-longest-consecutive-sequence",
     "leetcode/0268-missing-number",
-    "leetcode/0167-two-sum-ii-input-array-is-sorted"
+    "leetcode/0167-two-sum-ii-input-array-is-sorted",
+    "leetcode/0015-3sum"
   ]
 }
