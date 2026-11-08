@@ -1,0 +1,18 @@
+{
+  "platform": "leetcode",
+  "problemId": "4467",
+  "frontendId": "4102",
+  "title": "Count Valid Substrings I",
+  "slug": "count-valid-substrings-i",
+  "difficulty": "Medium",
+  "topics": [],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "279 ms",
+  "memory": "16.1 MB",
+  "submissionId": "2192095199",
+  "acceptedAt": "2026-11-08T19:09:05.256Z",
+  "updatedAt": "2026-11-08T19:09:06.605Z",
+  "url": "https://leetcode.com/problems/count-valid-substrings-i/",
+  "version": 1
+}

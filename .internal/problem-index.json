@@ -142,5 +142,15 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-07T09:50:00.560Z"
+  },
+  {
+    "folderId": "leetcode/4102-count-valid-substrings-i",
+    "frontendId": "4102",
+    "title": "Count Valid Substrings I",
+    "slug": "count-valid-substrings-i",
+    "difficulty": "Medium",
+    "topics": [],
+    "language": "python",
+    "acceptedAt": "2026-11-08T19:09:05.256Z"
   }
 ]
