@@ -8,11 +8,11 @@
   "topics": [],
   "companyTags": [],
   "language": "python",
-  "runtime": "279 ms",
-  "memory": "16.1 MB",
-  "submissionId": "2192095199",
-  "acceptedAt": "2026-11-08T19:09:05.256Z",
-  "updatedAt": "2026-11-08T19:09:06.605Z",
+  "runtime": "260 ms",
+  "memory": "16 MB",
+  "submissionId": "2192241065",
+  "acceptedAt": "2026-11-09T04:23:04.050Z",
+  "updatedAt": "2026-11-09T04:23:05.693Z",
   "url": "https://leetcode.com/problems/count-valid-substrings-i/",
-  "version": 1
+  "version": 2
 }

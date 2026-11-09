@@ -1,5 +1,5 @@
-# Runtime: 279 ms
-# Memory: 16.1 MB
+# Runtime: 260 ms
+# Memory: 16 MB
 
 class Solution(object):
     def countValidSubstrings(self, s):
