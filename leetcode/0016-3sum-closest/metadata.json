@@ -12,11 +12,11 @@
   ],
   "companyTags": [],
   "language": "python",
-  "runtime": "467 ms",
-  "memory": "12 MB",
-  "submissionId": "2191194541",
-  "acceptedAt": "2026-11-07T09:50:00.560Z",
-  "updatedAt": "2026-11-07T09:50:01.836Z",
+  "runtime": "480 ms",
+  "memory": "12.1 MB",
+  "submissionId": "2193359276",
+  "acceptedAt": "2026-11-10T17:31:53.168Z",
+  "updatedAt": "2026-11-10T17:31:54.300Z",
   "url": "https://leetcode.com/problems/3sum-closest/",
-  "version": 1
+  "version": 2
 }
