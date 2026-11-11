@@ -1,5 +1,5 @@
-# Runtime: 478 ms
-# Memory: 12.2 MB
+# Runtime: 484 ms
+# Memory: 12.1 MB
 
 class Solution(object):
     def threeSumClosest(self, nums, target):
