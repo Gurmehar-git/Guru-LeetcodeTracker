@@ -12,11 +12,11 @@
   ],
   "companyTags": [],
   "language": "python",
-  "runtime": "752 ms",
-  "memory": "18.8 MB",
-  "submissionId": "2191192037",
-  "acceptedAt": "2026-11-07T09:43:34.553Z",
-  "updatedAt": "2026-11-07T09:43:36.120Z",
+  "runtime": "767 ms",
+  "memory": "18.9 MB",
+  "submissionId": "2194570734",
+  "acceptedAt": "2026-11-12T11:39:55.310Z",
+  "updatedAt": "2026-11-12T11:39:56.686Z",
   "url": "https://leetcode.com/problems/3sum/",
-  "version": 1
+  "version": 2
 }

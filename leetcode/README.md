@@ -202,9 +202,9 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0015 | [3Sum](0015-3sum/README.md) | Medium | 2026-11-12 |
 | 0016 | [3Sum Closest](0016-3sum-closest/README.md) | Medium | 2026-11-11 |
 | 4102 | [Count Valid Substrings I](4102-count-valid-substrings-i/README.md) | Medium | 2026-11-09 |
-| 0015 | [3Sum](0015-3sum/README.md) | Medium | 2026-11-07 |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium | 2026-11-06 |
 | 0268 | [Missing Number](0268-missing-number/README.md) | Easy | 2026-11-06 |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium | 2026-11-05 |
