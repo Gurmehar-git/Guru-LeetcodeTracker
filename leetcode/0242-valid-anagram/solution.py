@@ -1,5 +1,5 @@
-# Runtime: 18 ms
-# Memory: 12.3 MB
+# Runtime: 17 ms
+# Memory: 12.2 MB
 
 class Solution(object):
     def isAnagram(self, s, t):
