@@ -12,11 +12,11 @@
   ],
   "companyTags": [],
   "language": "python",
-  "runtime": "16 ms",
-  "memory": "12.4 MB",
-  "submissionId": "2196097698",
-  "acceptedAt": "2026-11-14T17:42:40.810Z",
-  "updatedAt": "2026-11-14T19:14:42.078Z",
+  "runtime": "15 ms",
+  "memory": "12.6 MB",
+  "submissionId": "2196778951",
+  "acceptedAt": "2026-11-15T17:10:37.994Z",
+  "updatedAt": "2026-11-15T17:10:38.980Z",
   "url": "https://leetcode.com/problems/valid-anagram/",
-  "version": 3
+  "version": 4
 }
