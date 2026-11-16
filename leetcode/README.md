@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**11** problems solved — 3 Easy · 8 Medium · 0 Hard
+**12** problems solved — 3 Easy · 9 Medium · 0 Hard
 
 ## Contents
 
@@ -22,6 +22,7 @@
 | 0217 | [Contains Duplicate](0217-contains-duplicate/README.md) | Easy | Array, Hash Table, Sorting |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | Hash Table, String, Sorting |
 | 0268 | [Missing Number](0268-missing-number/README.md) | Easy | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium | Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium | Array, Dynamic Programming, Longest Common Subsequence |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | String, Dynamic Programming, Longest Common Subsequence |
 | 4102 | [Count Valid Substrings I](4102-count-valid-substrings-i/README.md) | Medium |  |
@@ -36,7 +37,7 @@
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
 | 0268 | [Missing Number](0268-missing-number/README.md) | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
 
-### Medium (8)
+### Medium (9)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -45,6 +46,7 @@
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Array, Hash Table, String, Sorting |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Array, Hash Table, Union-Find |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Array, Two Pointers, Binary Search |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Array, Dynamic Programming, Longest Common Subsequence |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | String, Dynamic Programming, Longest Common Subsequence |
 | 4102 | [Count Valid Substrings I](4102-count-valid-substrings-i/README.md) |  |
@@ -56,7 +58,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (8)</summary>
+<summary>Array (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -67,17 +69,19 @@ _No problems solved yet._
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium |
 | 0217 | [Contains Duplicate](0217-contains-duplicate/README.md) | Easy |
 | 0268 | [Missing Number](0268-missing-number/README.md) | Easy |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium |
 
 </details>
 
 <details>
-<summary>Binary Search (2)</summary>
+<summary>Binary Search (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium |
 | 0268 | [Missing Number](0268-missing-number/README.md) | Easy |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
 
 </details>
 
@@ -91,10 +95,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Dynamic Programming (2)</summary>
+<summary>Dynamic Programming (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 
@@ -120,6 +125,15 @@ _No problems solved yet._
 | --- | --- | --- |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Longest Increasing Subsequence (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
 
 </details>
 
@@ -180,6 +194,15 @@ _No problems solved yet._
 ## By Language
 
 <details>
+<summary>java (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>python (11)</summary>
 
 | # | Title | Difficulty |
@@ -202,6 +225,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium | 2026-11-16 |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | 2026-11-15 |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | 2026-11-13 |
 | 0016 | [3Sum Closest](0016-3sum-closest/README.md) | Medium | 2026-11-11 |

@@ -11,5 +11,8 @@
     "leetcode/0015-3sum",
     "leetcode/0016-3sum-closest",
     "leetcode/4102-count-valid-substrings-i"
+  ],
+  "java": [
+    "leetcode/0300-longest-increasing-subsequence"
   ]
 }
