@@ -1,14 +1,14 @@
 # 300. Longest Increasing Subsequence
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) ![Topic](https://img.shields.io/badge/Topic-Array-blue) ![Topic](https://img.shields.io/badge/Topic-Binary_Search-blue) ![Topic](https://img.shields.io/badge/Topic-Dynamic_Programming-blue) ![Topic](https://img.shields.io/badge/Topic-Longest_Increasing_Subsequence-blue) ![Language](https://img.shields.io/badge/Language-java-orange)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) ![Topic](https://img.shields.io/badge/Topic-Array-blue) ![Topic](https://img.shields.io/badge/Topic-Binary_Search-blue) ![Topic](https://img.shields.io/badge/Topic-Dynamic_Programming-blue) ![Topic](https://img.shields.io/badge/Topic-Longest_Increasing_Subsequence-blue) ![Language](https://img.shields.io/badge/Language-python-orange)
 
 ## Metadata
 
 | Field | Value |
 | --- | --- |
-| Runtime | 415 ms |
-| Memory | 236.8 MB |
-| Submission Date | 2026-11-16T04:34:15.457Z |
+| Runtime | 1998 ms |
+| Memory | 12.4 MB |
+| Submission Date | 2026-11-17T04:24:08.817Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -67,35 +67,17 @@
 
 ## Solution
 
-```java
-import java.util.Arrays;
-class Solution {
-    public int lengthOfLIS(int[] nums) {
-        int n = nums.length;
-        int[][] dp = new int[n][n + 1];
-        for (int[] row : dp) {
-            Arrays.fill(row, -1);
-        }
-        return f(0, -1, nums, dp);
-    }
-    private int f(int i, int prev, int[] nums, int[][] dp) {
-        int n = nums.length;
-        if (i >= n) {
-            return 0;
-        }
-        if (dp[i][prev + 1] != -1) {
-            return dp[i][prev + 1];
-        }
-        int take = 0;
-        if (prev == -1 || nums[i] > nums[prev]) {
-            take = 1 + f(i + 1, i, nums, dp);
-        }
-        int nottake = f(i + 1, prev, nums, dp);
-        dp[i][prev + 1] = Math.max(take, nottake);
-        return dp[i][prev + 1];
-    }
-}
-
+```py
+class Solution(object):
+    def lengthOfLIS(self, nums):
+        n=len(nums)
+        dp=[1]*n
+        for i in range(n):
+            for j in range(i):
+                if(nums[j]<nums[i]):
+                    dp[i]=max(dp[i],1+dp[j])
+        return max(dp)
+            
 ```
 
 [View on LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/)

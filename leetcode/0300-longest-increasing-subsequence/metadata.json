@@ -12,12 +12,12 @@
     "Longest Increasing Subsequence"
   ],
   "companyTags": [],
-  "language": "java",
-  "runtime": "415 ms",
-  "memory": "236.8 MB",
-  "submissionId": "2197032045",
-  "acceptedAt": "2026-11-16T04:34:15.457Z",
-  "updatedAt": "2026-11-16T04:34:16.469Z",
+  "language": "python",
+  "runtime": "1998 ms",
+  "memory": "12.4 MB",
+  "submissionId": "2197722573",
+  "acceptedAt": "2026-11-17T04:24:08.817Z",
+  "updatedAt": "2026-11-17T04:24:09.689Z",
   "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
-  "version": 1
+  "version": 2
 }

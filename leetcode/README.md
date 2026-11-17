@@ -194,16 +194,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>java (1)</summary>
-
-| # | Title | Difficulty |
-| --- | --- | --- |
-| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
-
-</details>
-
-<details>
-<summary>python (11)</summary>
+<summary>python (12)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -215,6 +206,7 @@ _No problems solved yet._
 | 0217 | [Contains Duplicate](0217-contains-duplicate/README.md) | Easy |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0268 | [Missing Number](0268-missing-number/README.md) | Easy |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 | 4102 | [Count Valid Substrings I](4102-count-valid-substrings-i/README.md) | Medium |
@@ -225,7 +217,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
-| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium | 2026-11-16 |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium | 2026-11-17 |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | 2026-11-15 |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | 2026-11-13 |
 | 0016 | [3Sum Closest](0016-3sum-closest/README.md) | Medium | 2026-11-11 |
