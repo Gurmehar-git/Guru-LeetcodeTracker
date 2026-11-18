@@ -11,6 +11,7 @@
     "leetcode/0015-3sum",
     "leetcode/0016-3sum-closest",
     "leetcode/4102-count-valid-substrings-i",
-    "leetcode/0300-longest-increasing-subsequence"
+    "leetcode/0300-longest-increasing-subsequence",
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
   ]
 }

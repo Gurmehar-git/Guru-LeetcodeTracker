@@ -7,7 +7,8 @@
   "Dynamic Programming": [
     "leetcode/1143-longest-common-subsequence",
     "leetcode/1035-uncrossed-lines",
-    "leetcode/0300-longest-increasing-subsequence"
+    "leetcode/0300-longest-increasing-subsequence",
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
   ],
   "Longest Common Subsequence": [
     "leetcode/1143-longest-common-subsequence",
@@ -22,7 +23,8 @@
     "leetcode/0167-two-sum-ii-input-array-is-sorted",
     "leetcode/0015-3sum",
     "leetcode/0016-3sum-closest",
-    "leetcode/0300-longest-increasing-subsequence"
+    "leetcode/0300-longest-increasing-subsequence",
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
   ],
   "Hash Table": [
     "leetcode/0217-contains-duplicate",
@@ -60,5 +62,8 @@
   ],
   "Longest Increasing Subsequence": [
     "leetcode/0300-longest-increasing-subsequence"
+  ],
+  "Greedy": [
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
   ]
 }
