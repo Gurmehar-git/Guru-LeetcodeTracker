@@ -8,7 +8,8 @@
     "leetcode/1143-longest-common-subsequence",
     "leetcode/1035-uncrossed-lines",
     "leetcode/0300-longest-increasing-subsequence",
-    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii",
+    "leetcode/0121-best-time-to-buy-and-sell-stock"
   ],
   "Longest Common Subsequence": [
     "leetcode/1143-longest-common-subsequence",
@@ -24,7 +25,8 @@
     "leetcode/0015-3sum",
     "leetcode/0016-3sum-closest",
     "leetcode/0300-longest-increasing-subsequence",
-    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii",
+    "leetcode/0121-best-time-to-buy-and-sell-stock"
   ],
   "Hash Table": [
     "leetcode/0217-contains-duplicate",
