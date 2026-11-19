@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**15** problems solved — 4 Easy · 10 Medium · 1 Hard
+**16** problems solved — 4 Easy · 10 Medium · 2 Hard
 
 ## Contents
 
@@ -22,6 +22,7 @@
 | 0123 | [Best Time to Buy and Sell Stock III](0123-best-time-to-buy-and-sell-stock-iii/README.md) | Hard | Array, Dynamic Programming |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium | Array, Hash Table, Union-Find |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium | Array, Two Pointers, Binary Search |
+| 0188 | [Best Time to Buy and Sell Stock IV](0188-best-time-to-buy-and-sell-stock-iv/README.md) | Hard | Array, Dynamic Programming |
 | 0217 | [Contains Duplicate](0217-contains-duplicate/README.md) | Easy | Array, Hash Table, Sorting |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | Hash Table, String, Sorting |
 | 0268 | [Missing Number](0268-missing-number/README.md) | Easy | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
@@ -56,16 +57,17 @@
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | String, Dynamic Programming, Longest Common Subsequence |
 | 4102 | [Count Valid Substrings I](4102-count-valid-substrings-i/README.md) |  |
 
-### Hard (1)
+### Hard (2)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0123 | [Best Time to Buy and Sell Stock III](0123-best-time-to-buy-and-sell-stock-iii/README.md) | Array, Dynamic Programming |
+| 0188 | [Best Time to Buy and Sell Stock IV](0188-best-time-to-buy-and-sell-stock-iv/README.md) | Array, Dynamic Programming |
 
 ## By Topic
 
 <details>
-<summary>Array (12)</summary>
+<summary>Array (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -77,6 +79,7 @@
 | 0123 | [Best Time to Buy and Sell Stock III](0123-best-time-to-buy-and-sell-stock-iii/README.md) | Hard |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium |
+| 0188 | [Best Time to Buy and Sell Stock IV](0188-best-time-to-buy-and-sell-stock-iv/README.md) | Hard |
 | 0217 | [Contains Duplicate](0217-contains-duplicate/README.md) | Easy |
 | 0268 | [Missing Number](0268-missing-number/README.md) | Easy |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
@@ -105,13 +108,14 @@
 </details>
 
 <details>
-<summary>Dynamic Programming (6)</summary>
+<summary>Dynamic Programming (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0123 | [Best Time to Buy and Sell Stock III](0123-best-time-to-buy-and-sell-stock-iii/README.md) | Hard |
+| 0188 | [Best Time to Buy and Sell Stock IV](0188-best-time-to-buy-and-sell-stock-iv/README.md) | Hard |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
@@ -216,7 +220,7 @@
 ## By Language
 
 <details>
-<summary>python (15)</summary>
+<summary>python (16)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -228,6 +232,7 @@
 | 0123 | [Best Time to Buy and Sell Stock III](0123-best-time-to-buy-and-sell-stock-iii/README.md) | Hard |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium |
+| 0188 | [Best Time to Buy and Sell Stock IV](0188-best-time-to-buy-and-sell-stock-iv/README.md) | Hard |
 | 0217 | [Contains Duplicate](0217-contains-duplicate/README.md) | Easy |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0268 | [Missing Number](0268-missing-number/README.md) | Easy |
@@ -242,6 +247,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0188 | [Best Time to Buy and Sell Stock IV](0188-best-time-to-buy-and-sell-stock-iv/README.md) | Hard | 2026-11-19 |
 | 0123 | [Best Time to Buy and Sell Stock III](0123-best-time-to-buy-and-sell-stock-iii/README.md) | Hard | 2026-11-19 |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy | 2026-11-19 |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | 2026-11-18 |
@@ -256,4 +262,3 @@
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | 2026-11-05 |
 | 0217 | [Contains Duplicate](0217-contains-duplicate/README.md) | Easy | 2026-11-05 |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium | 2026-11-05 |
-| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | 2026-11-04 |
