@@ -220,5 +220,17 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-19T03:54:48.969Z"
+  },
+  {
+    "folderId": "leetcode/1757-recyclable-and-low-fat-products",
+    "frontendId": "1757",
+    "title": "Recyclable and Low Fat Products",
+    "slug": "recyclable-and-low-fat-products",
+    "difficulty": "Easy",
+    "topics": [
+      "Database"
+    ],
+    "language": "postgresql",
+    "acceptedAt": "2026-11-20T08:37:01.032Z"
   }
 ]

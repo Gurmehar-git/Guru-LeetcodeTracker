@@ -71,5 +71,8 @@
   ],
   "Greedy": [
     "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
+  ],
+  "Database": [
+    "leetcode/1757-recyclable-and-low-fat-products"
   ]
 }
