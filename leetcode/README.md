@@ -267,7 +267,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
-| 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/README.md) | Easy | 2026-11-20 |
+| 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/README.md) | Easy | 2026-11-21 |
 | 0188 | [Best Time to Buy and Sell Stock IV](0188-best-time-to-buy-and-sell-stock-iv/README.md) | Hard | 2026-11-19 |
 | 0123 | [Best Time to Buy and Sell Stock III](0123-best-time-to-buy-and-sell-stock-iii/README.md) | Hard | 2026-11-19 |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy | 2026-11-19 |

@@ -1,4 +1,4 @@
--- Runtime: 260 ms
+-- Runtime: 251 ms
 -- Memory: 0B
 
 -- Write your PostgreSQL query statement below
