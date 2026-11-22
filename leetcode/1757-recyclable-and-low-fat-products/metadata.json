@@ -10,11 +10,11 @@
   ],
   "companyTags": [],
   "language": "postgresql",
-  "runtime": "251 ms",
+  "runtime": "248 ms",
   "memory": "0B",
-  "submissionId": "2200312860",
-  "acceptedAt": "2026-11-21T04:04:27.091Z",
-  "updatedAt": "2026-11-21T04:04:28.231Z",
+  "submissionId": "2200998532",
+  "acceptedAt": "2026-11-22T03:47:00.341Z",
+  "updatedAt": "2026-11-22T03:47:01.258Z",
   "url": "https://leetcode.com/problems/recyclable-and-low-fat-products/",
-  "version": 2
+  "version": 3
 }
