@@ -267,6 +267,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium | 2026-11-24 |
 | 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/README.md) | Easy | 2026-11-22 |
 | 0188 | [Best Time to Buy and Sell Stock IV](0188-best-time-to-buy-and-sell-stock-iv/README.md) | Hard | 2026-11-19 |
 | 0123 | [Best Time to Buy and Sell Stock III](0123-best-time-to-buy-and-sell-stock-iii/README.md) | Hard | 2026-11-19 |
@@ -279,6 +280,5 @@
 | 4102 | [Count Valid Substrings I](4102-count-valid-substrings-i/README.md) | Medium | 2026-11-09 |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium | 2026-11-06 |
 | 0268 | [Missing Number](0268-missing-number/README.md) | Easy | 2026-11-06 |
-| 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium | 2026-11-05 |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | 2026-11-05 |
 | 0217 | [Contains Duplicate](0217-contains-duplicate/README.md) | Easy | 2026-11-05 |
