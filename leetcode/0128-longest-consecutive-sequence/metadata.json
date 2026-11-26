@@ -12,11 +12,11 @@
   ],
   "companyTags": [],
   "language": "python",
-  "runtime": "66 ms",
-  "memory": "30.6 MB",
-  "submissionId": "2203508156",
-  "acceptedAt": "2026-11-25T21:31:07.658Z",
-  "updatedAt": "2026-11-25T21:31:08.661Z",
+  "runtime": "76 ms",
+  "memory": "30.4 MB",
+  "submissionId": "2203894998",
+  "acceptedAt": "2026-11-26T12:48:12.684Z",
+  "updatedAt": "2026-11-26T12:48:13.742Z",
   "url": "https://leetcode.com/problems/longest-consecutive-sequence/",
-  "version": 3
+  "version": 4
 }
