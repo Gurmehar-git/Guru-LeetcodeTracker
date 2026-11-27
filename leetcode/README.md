@@ -267,7 +267,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
-| 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium | 2026-11-26 |
+| 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium | 2026-11-27 |
 | 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/README.md) | Easy | 2026-11-22 |
 | 0188 | [Best Time to Buy and Sell Stock IV](0188-best-time-to-buy-and-sell-stock-iv/README.md) | Hard | 2026-11-19 |
 | 0123 | [Best Time to Buy and Sell Stock III](0123-best-time-to-buy-and-sell-stock-iii/README.md) | Hard | 2026-11-19 |

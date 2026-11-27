@@ -1,5 +1,5 @@
-# Runtime: 76 ms
-# Memory: 30.4 MB
+# Runtime: 66 ms
+# Memory: 30.5 MB
 
 class Solution(object):
     def longestConsecutive(self, nums):
